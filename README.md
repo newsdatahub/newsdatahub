@@ -69,7 +69,7 @@ Visit our [API Reference][docs] for complete documentation. Our documentation in
 
 ## Example Response
 
-View a sample API response from our paid plan in [data.json](data.json). This example demonstrates the full range of available fields including sentiment analysis and keyword extraction capabilities.
+View a sample API response from our paid plan in [data.json](https://github.com/newsdatahub/news-data-hub-api/blob/main/data.json). This example demonstrates the full range of available fields including sentiment analysis and keyword extraction capabilities.
 
 [website]: https://newsdatahub.com
 [signup]: https://newsdatahub.com
