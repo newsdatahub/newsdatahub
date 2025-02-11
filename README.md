@@ -48,10 +48,13 @@ getNews();
 
 ## Features
 
-- Multi-regional coverage across 9 countries (US, UK, Canada, Spain, France, Germany, India, Pakistan, Australia)
+- 30+ million articles from thousands of news sources since 2000
+- Real-time updates throughout the day with standardized JSON responses
+- Advanced search with boolean operators and exact phrase matching
+- Multi-language support across English, Spanish, German, Italian, and French
 - Rich article metadata
 - Simple REST API with standardized JSON responses
-- Free tier with 100 daily requests
+- Free tier with 200 daily requests
 
 ## Getting Started
 
