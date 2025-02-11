@@ -18,7 +18,8 @@ If you're affiliated with an educational institution and need access to paid acc
 import requests
 
 headers = {
-    'X-Api-Key': 'your_api_key_here'
+    'X-Api-Key': 'your_api_key_here',
+    'User-Agent': 'YourApp/1.0'
 }
 
 response = requests.get('https://api.newsdatahub.com/v1/news', headers=headers)
