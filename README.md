@@ -31,7 +31,8 @@ news_data = response.json()
 const axios = require('axios');
 
 const headers = {
-    'X-Api-Key': 'your_api_key_here'
+    'X-Api-Key': 'your_api_key_here',
+    'User-Agent': 'YourApp/1.0'
 };
 
 async function getNews() {
