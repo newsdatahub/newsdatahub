@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b8d658ab-496e-4c3e-9b38-c3d5f234b346" alt="NewsDataHub API" width="120"/>
+  <img width="120" height="120" alt="NewsDataHub logo" src="https://github.com/user-attachments/assets/33414a3a-3367-4128-83a7-ff80f088cdb6" />
+
 </div>
 
 # NewsDataHub API
