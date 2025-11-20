@@ -5,12 +5,7 @@
 
 # NewsDataHub API
 
-Access news data from trusted sources worldwide through a simple REST API. Start exploring with our free news API tier - no credit card required.  Visit our [main website][website] to learn more about our service.
-
-## Academic Use
-
-If you're affiliated with an educational institution and need access to paid account for research purposes, please email us directly: 
-- info [at] newsdatahub [dot] com to discuss academic pricing options.
+Access 200,000+ fresh articles daily from 6,500+ unique sources across 170+ countries in 40+ languages — enriched with topics, source and other metadata. Start exploring with our free news API tier - no credit card required.  Visit our [main website][website] to learn more about our service.
 
 ## Quick Start
 
@@ -50,13 +45,14 @@ getNews();
 
 ## Features
 
-- 30+ million articles from thousands of news sources since 2000
-- Real-time updates throughout the day with standardized JSON responses
+- Access 200,000+ fresh articles daily
+- Free tier with 100 daily requests
 - Advanced search with boolean operators and exact phrase matching
-- Multi-language support across English, Spanish, German, Italian, and French
+- Multi-language support across English, Spanish, German, Italian, French and more (40+ languages) 
 - Rich article metadata
 - Simple REST API with standardized JSON responses
-- Free tier with 200 daily requests
+- /related endpoint for content discovery
+
 
 ## Getting Started
 
@@ -73,9 +69,6 @@ Visit our [API Reference][docs] for complete documentation. Our documentation in
 - Code samples in Python, Node.js, Go, and Ruby
 
 
-## Example Response
-
-View a sample API response from our paid plan in [data.json](https://github.com/newsdatahub/news-data-hub-api/blob/main/data.json). This example demonstrates the full range of available fields including sentiment analysis and keyword extraction capabilities.
 
 [website]: https://newsdatahub.com
 [signup]: https://newsdatahub.com
