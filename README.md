@@ -67,13 +67,13 @@
 
   ## Getting Started
 
-  1. [Sign up][signup] for your free API key
+  1. [Sign up](https://newsdatahub.com/login)  for your free API key
   2. Add the key via the X-Api-Key header
   3. Start fetching news data!
 
   ## Documentation
 
-  See the [API Reference][docs] for:
+  See the [API Reference](https://newsdatahub.com/docs) for:
 
   - Authentication and quotas
   - Pagination
