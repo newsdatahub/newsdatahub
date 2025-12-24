@@ -16,6 +16,7 @@
 
   - Uptime: [status.newsdatahub.com](https://status.newsdatahub.com)
   - Postman: [collection link](https://www.postman.com/aviation-operator-7936876/newsdatahub-api/overview)
+  - Subscribe to our <a href="https://newsdatahub.com/newsletter.html">Newsletter</a> for insights, product updates, and behind-the-scenes
 
   ## Quick Start
 
