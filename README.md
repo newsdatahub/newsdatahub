@@ -12,7 +12,7 @@
   # NewsDataHub API
 
   Access 200,000+ fresh articles daily from 6,500+ sources across 170+ countries in 40+ languages — enriched with topics,
-  source data, and other metadata. Free tier, no card required. Visit our [main website][website] to learn more.
+  source data, and other metadata. Free tier, no card required. Visit our [main website](https://newsdatahub.com) to learn more.
 
   - Uptime: [status.newsdatahub.com](https://status.newsdatahub.com)
   - Postman: [collection link](https://www.postman.com/aviation-operator-7936876/newsdatahub-api/overview)
